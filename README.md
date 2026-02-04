@@ -2,20 +2,29 @@
 
 ## Disclaimer
 
-Q: Is it AI generated?
-A: Absolutely, this is a lot of requirements for a mere test. I can do it myself given enough time and effort, but we have a constraint here.
+**Q:** Is it AI generated?  
+**A:** Absolutely, this is a lot of requirements for a mere test. I can do it myself given enough time and effort, but we have a constraint here. I gave the agents my guideline of what I would do based on my experiences and leave the implementations to them.
 
-Q: Have you reviewed the code?  
-A: Yes.
+**Q:** Have you reviewed the code/doc?  
+**A:** Yes, and refined them to be more concise and less bloated.
 
-Q: Does it work?
-A: Most likely not at first try due to a lot of AWS dependencies, and I don't plan to use my personal AWS account for a test. However, I'd be happy to walk you through the process.
+**Q:** Is this production ready?  
+**A:** Absolutely not, we don't expect a production ready A-to-Z infrastructure on a half-a-day test. Although I can talk through what to do to make it production ready.
 
-Q: Does this fulfill all the requirements?
-A: No, the observability and TLS parts are not there yet. They require more sophisticated setup. I'm happy to walk you through it.
+**Q:** Does it work?  
+**A:** Most likely not at first try due to a lot of AWS dependencies, and I don't plan to use my personal AWS account for a test. However, I'd be happy to walk you through the process.
 
-Q: Would you do this in production?
-A: Absolutely not. I'd spend more time and iterate this over multiple steps.
+**Q:** Does this fulfill all the requirements?  
+**A:** No, the observability and TLS parts are not there yet. They require more sophisticated setup. I'm happy to walk you through it.
+
+**Q:** Would you do this in production?  
+**A:** Absolutely not. I'd spend more time and iterate this over multiple steps.
+
+**Note:**
+
+I'd like to point out that this is roughly how I would _start_ such a project in a real business but this is not how I would _carry_ it. I would _NOT_ implement all the requirements without discussing with the team about the technical and effort aspects. 
+
+As a result, my submission is very imperfect, but I'd rather discuss it on a 1-1 than blindly implement a lot of features. I hope we are aligned on the expectation here. Thank you.
 
 ## Quick Start
 
